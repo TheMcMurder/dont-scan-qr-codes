@@ -1,3 +1,7 @@
 # Don't scan QR codes
 
-Seriously, you have no idea where they could go
+This repo exists as a silly joke.
+
+## direct link
+
+This is hosted here: https://themcmurder.github.io/dont-scan-qr-codes/
